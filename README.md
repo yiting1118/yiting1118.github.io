@@ -2,7 +2,13 @@
 哈囉你好嗎
 ## 自我介紹
 我是羅翊庭，你好!
-
+```C
+#include<stdio.h>
+int main()
+{
+   printf("Hello World"\n);
+}
+```
 ## 興趣
 吃飯、睡覺
 
